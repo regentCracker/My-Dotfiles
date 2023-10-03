@@ -4,4 +4,6 @@ Feel free to use though it's mostly for recovery and undocumented.
 ```
 cd ~
 ln -s [.filename]
+
+awesome goes in .config
 ```
