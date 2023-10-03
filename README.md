@@ -6,4 +6,4 @@ cd ~
 ln -s [.filename]
 
 ```
-awesome goes in .config
+awesome, picom go in .config
